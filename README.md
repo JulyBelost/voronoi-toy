@@ -1,6 +1,6 @@
 # WebGL Interactive Voronoi Diagram
 
-**Play with it online!** : http://skeeto.github.io/voronoi-toy/
+**Play with it online!** : http://julybelost.github.io/voronoi-toy/
 
 Video, for non-WebGL capable browsers:
 [WebM](http://nullprogram.s3.amazonaws.com/voronoi/voronoi.webm)
